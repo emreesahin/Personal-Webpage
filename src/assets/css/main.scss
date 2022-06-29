@@ -1,0 +1,62 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+
+
+
+.context-box {
+        text-align: center;
+ }
+.main-container {    
+    position: relative;
+    width: 100%;
+    top:15vh;
+    text-align: center;
+
+}
+
+.context {
+    color: #ffffff;
+    font-size: 80px;
+    font-family: 'Carattere', cursive;
+}
+
+.context-body {
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Carattere', cursive;
+}
+
+.body-box {
+    border-radius: 15px;
+    opacity: .75;
+    display: inline-block;
+    width: 30%;
+    height:40px ;
+    padding-bottom: 15px;
+    padding-top: 0px;
+    margin-top: 15px;
+}
+
+
+.icon-box {
+
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px #ffffff;
+    color: #ffffff54;
+    display: inline-block;
+    height: 38px;
+    line-height: 45px;
+    opacity: .75;
+    width: 40px;
+    margin: 10px 10px auto;
+    }
+
+    .icon {
+        color: #ffffffe8;
+    }
+
+    .icon:hover{
+        color:rgb(185, 183, 183);
+      }
